@@ -1,0 +1,8 @@
+id: d5d675b8650ddb3c0097f5f7140d953d1436782e
+created: Michael Chou	MichaelJChou@hotmail.com	1427887189175	480
+heads: 46ce2f726fc477e3e06e1726a55f04f897a1e7e6
+source-head: 23cb0ec9924f9b16729f1f027b1dd28acd781e97
+target: refs/heads/master
+target-head: 23cb0ec9924f9b16729f1f027b1dd28acd781e97
+content
+Fix bpp related problems
